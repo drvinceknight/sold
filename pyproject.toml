@@ -8,8 +8,8 @@ author = "Vincent Knight"
 author-email = "knightva@cardiff.ac.uk"
 requires-python= ">=3.11"
 requires = [
-    "more-itertools >= 10.2.0",
     "numpy >= 1.26.1",
+    "scipy >= 1.14.1",
 ]
 description-file = "README.md"
 classifiers = [ "License :: OSI Approved :: MIT License",]
